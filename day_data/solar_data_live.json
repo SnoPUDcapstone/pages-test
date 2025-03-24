@@ -1,113 +1,5 @@
 [
     {
-        "Date and Time": "2024-03-22 19:39:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:40:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:41:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:42:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:43:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:44:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:45:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:46:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:47:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:48:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:49:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:50:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:51:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:52:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:53:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:54:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:55:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:56:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:57:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:58:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 19:59:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 20:00:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 20:01:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 20:02:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 20:03:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 20:04:00",
-        "Value (KW)": 0
-    },
-    {
-        "Date and Time": "2024-03-22 20:05:00",
-        "Value (KW)": 0
-    },
-    {
         "Date and Time": "2024-03-22 20:06:00",
         "Value (KW)": 0
     },
@@ -5997,6 +5889,114 @@
     },
     {
         "Date and Time": "2024-03-23 20:38:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:39:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:40:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:41:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:42:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:43:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:44:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:45:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:46:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:47:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:48:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:49:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:50:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:51:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:52:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:53:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:54:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:55:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:56:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:57:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:58:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 20:59:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 21:00:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 21:01:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 21:02:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 21:03:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 21:04:00",
+        "Value (KW)": 0
+    },
+    {
+        "Date and Time": "2024-03-23 21:05:00",
         "Value (KW)": 0
     }
 ]
