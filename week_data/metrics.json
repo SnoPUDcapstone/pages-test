@@ -1,45 +1,45 @@
 {
-    "solar": 10605.19,
+    "solar": 10592.07,
     "dataset1": {
         "rmse": 62.62,
         "mae": 30.09,
         "mse": 3921.26,
-        "cycles": 4.44,
-        "energy": 10547.33
+        "cycles": 4.46,
+        "energy": 10458.18
     },
     "dataset2": {
         "rmse": 60.23,
         "mae": 27.15,
         "mse": 3627.65,
-        "cycles": 4.52,
-        "energy": 10465.07
+        "cycles": 4.27,
+        "energy": 10286.52
     },
     "dataset3": {
         "rmse": 77.29,
         "mae": 37.88,
         "mse": 5973.74,
-        "cycles": 6.21,
-        "energy": 9654.4
+        "cycles": 5.91,
+        "energy": 10308.51
     },
     "dataset4": {
         "rmse": 58.18,
         "mae": 25.11,
         "mse": 3384.91,
-        "cycles": 4.51,
-        "energy": 10547.14
+        "cycles": 4.41,
+        "energy": 10630.33
     },
     "dataset5": {
         "rmse": 57.73,
         "mae": 25.22,
         "mse": 3332.75,
-        "cycles": 4.0,
-        "energy": 10826.7
+        "cycles": 4.58,
+        "energy": 11083.61
     },
     "dataset6": {
         "rmse": 61.33,
         "mae": 27.49,
         "mse": 3761.37,
-        "cycles": 4.89,
-        "energy": 11576.63
+        "cycles": 4.85,
+        "energy": 11413.34
     }
 }
